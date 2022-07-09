@@ -1,11 +1,11 @@
 # front-end-online-store
-Aplicação React que simula uma loja online. A manipulação do estado global da aplicação é feita usando Redux.
 
-Link para o GitHub Pages: vitor8.github.io/front-end-online-store
+React application that simulates an online store. The manipulation of the application's global state is done using Redux.
 
-Passo a Passo para a instalção do projeto:
+Link for GitHub Pages: vitor8.github.io/front-end-online-store
 
-- Fork o repositório
+Step by step to install the project:
+
 - Clone o repositório: git clone git@github.com:Vitor8/recipes-app.git
 - Entre na pasta: cd front-end-online-store
 - Entre em uma outra pasta: cd Portfolio
